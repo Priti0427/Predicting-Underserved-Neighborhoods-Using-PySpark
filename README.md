@@ -1,6 +1,6 @@
 # Assessing Public Transit Accessibility in Philadelphia and Predicting Underserved Neighborhoods Using PySpark
 
-## Project Overview
+## Introduction
 
 Public transportation accessibility is a major factor in urban mobility, economic opportunity, and social equity. In cities where transit services are unevenly distributed, some neighborhoods experience limited access to reliable transportation. These areas are often referred to as **transit deserts**.
 
